@@ -31,9 +31,8 @@ onMounted(async () => {
 
 <template>
   <div>
-    <h1>Vue Frontend + Node.js Backend Test</h1>
-    <p>Second Commit</p>
-    <p>Message from backend: <strong>{{ backendMessage }}</strong></p>
+    <h1>ふじもんのホームページ</h1>
+    <p>バックエンドからのメッセージ: <strong>{{ backendMessage }}</strong></p>
   </div>
 </template>
 
